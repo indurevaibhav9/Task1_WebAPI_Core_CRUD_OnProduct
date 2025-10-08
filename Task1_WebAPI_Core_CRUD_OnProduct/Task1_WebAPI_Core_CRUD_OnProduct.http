@@ -1,0 +1,6 @@
+@Task1_WebAPI_Core_CRUD_OnProduct_HostAddress = http://localhost:5081
+
+GET {{Task1_WebAPI_Core_CRUD_OnProduct_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
